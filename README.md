@@ -4,7 +4,7 @@ Travel expense tracking app for fast on-the-go capture, receipt-assisted draft e
 
 ## Current status
 
-This repository is a local-only Git workspace. The product definition lives in Obsidian, and this repo contains the initial SwiftUI source skeleton that can be imported into Xcode on macOS later.
+This repository now tracks GitHub and includes a portable Obsidian vault. The product definition lives in Obsidian, and this repo contains the initial SwiftUI source skeleton that can be imported into Xcode on macOS later.
 
 ## Product focus
 
