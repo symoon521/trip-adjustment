@@ -17,17 +17,18 @@ This repository is a local-only Git workspace. The product definition lives in O
 ## Repository layout
 
 - `TripAdjustment/`: SwiftUI app source skeleton
+- `ObsidianVault/`: portable Obsidian notes for the product and implementation plan
 - `docs/`: local setup notes and Obsidian workflow
 
 ## Obsidian source of truth
 
-- Vault root: `C:\Users\문건영\Documents\Obsidian Vault`
-- App hub note: `C:\Users\문건영\Documents\Obsidian Vault\어플\어플 1.md`
+- Vault root: `ObsidianVault/`
+- App hub note: `ObsidianVault/어플/어플 1.md`
 
 ## Next steps on macOS
 
 1. Create a new Xcode iOS App project named `TripAdjustment`.
 2. Add the files under `TripAdjustment/` into the Xcode target.
-3. Replace the mock OCR and static conversion services with production implementations.
-4. Add local persistence with SwiftData or Core Data.
-
+3. Open `ObsidianVault/` as a vault in Obsidian on the Mac.
+4. Replace the mock OCR and static conversion services with production implementations.
+5. Add local persistence with SwiftData or Core Data.
